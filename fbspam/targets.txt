@@ -1,0 +1,4 @@
+# one target per line: uid, username, or profile link
+# 100012345678901
+# zuck
+# https://www.facebook.com/profile.php?id=100012345678901

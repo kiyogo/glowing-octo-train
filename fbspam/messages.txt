@@ -1,0 +1,5 @@
+# one message per line — {a|b|c} picks one at random per send
+# nested spintax works, {name} style placeholders are left alone
+hey, how are you?
+{hi|hello|hey} {there|friend}, {how's it going|what's up}?
+saw your profile, {wanted to say hi|thought I'd reach out}

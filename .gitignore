@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Output & sensitive accounts
+out/
+*.log
+accounts.txt
+accounts.jsonl
+cookies/
+*.mailbox.json
+targets_test.txt
+
+# Playwright
+test-results/
+playwright-report/
+
+# OS generated
+.DS_Store
+Thumbs.db

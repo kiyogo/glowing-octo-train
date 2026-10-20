@@ -1,0 +1,5 @@
+# example pool — one per line, any of these shapes
+# http://user:pass@host:port
+# socks5://user:pass@host:port
+# host:port
+# host:port:user:pass
